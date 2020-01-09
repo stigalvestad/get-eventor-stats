@@ -1,0 +1,27 @@
+import urllib.parse
+import urllib.request
+
+api_key = "56475dea313348cea260e8e9035469f5"
+
+url = "https://eventor.orientering.no/api/organisation/apiKey"
+headers = { 'ApiKey' : api_key }
+
+
+req = urllib.request.Request(url, None, headers)
+with urllib.request.urlopen(req) as response:
+   html = response.read()
+   print(html)
+   
+Plan:
+1. Finn eventId's til de løpene som skal sammenlignes manuelt
+For hvert løp:
+	2. Finn påmeldte, evt resultater fra hvert løp
+	3. Hver påmeldte har følgende: organisasjonsId, klasseId
+	4. Hent hvilke klubber de ulike organisasjonsId'ene tilhører
+	5. Hent klassene for arrangementet
+	6. Lagre resultatet i en dictionary: løp - klasser - påmeldt fra klubb
+Så kan man aggregere:
+ - hvor mange er med fra denne klubben osv
+
+
+curl --header "ApiKey: 56475dea313348cea260e8e9035469f5" https://eventor.orientering.no/api/organisation/apiKey

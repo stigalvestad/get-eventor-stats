@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Organisation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <OrganisationId>135</OrganisationId>
+    <Name>IK Grane Arendal Orientering</Name>
+    <ShortName>IK Grane Arendal Orientering</ShortName>
+    <MediaName>IK Grane Arendal Orientering</MediaName>
+    <OrganisationTypeId>3</OrganisationTypeId>
+    <Country>
+        <CountryId value="578"/>
+        <Alpha3 value="NOR"/>
+        <Name languageId="sv">Norge</Name>
+        <Name languageId="en">Norway</Name>
+    </Country>
+    <Address careOf="Odd Utstumo" street="EskestÃ¸lveien 277" city="Arendal" zipCode="4848">
+        <AddressType value="official"/>
+        <Country>
+            <CountryId value="578"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="en">Norway</Name>
+            <Name languageId="sv">Norge</Name>
+        </Country>
+    </Address>
+    <Tele mobilePhoneNumber="91144903" mailAddress="odd@graneorientering.no">
+        <TeleType value="official"/>
+    </Tele>
+    <ParentOrganisation>
+        <OrganisationId>4</OrganisationId>
+    </ParentOrganisation>
+    <OrganisationStatusId>1</OrganisationStatusId>
+    <ModifyDate>
+        <Date>2017-04-22</Date>
+        <Clock>21:37:33</Clock>
+    </ModifyDate>
+</Organisation>

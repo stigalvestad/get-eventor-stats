@@ -1,0 +1,4720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StartList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Event eventForm="IndSingleDay">
+        <EventId>9206</EventId>
+        <Name>Sørlandsmesterskapet Langdistanse</Name>
+        <EventClassificationId>3</EventClassificationId>
+        <EventStatusId>11</EventStatusId>
+        <StartDate>
+            <Date>2018-08-25</Date>
+            <Clock>14:00:00</Clock>
+        </StartDate>
+        <FinishDate>
+            <Date>2018-08-25</Date>
+            <Clock>14:00:00</Clock>
+        </FinishDate>
+        <Organiser>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <MediaName>IK Grane Arendal Orientering</MediaName>
+                <OrganisationTypeId>3</OrganisationTypeId>
+                <CountryId value="578"/>
+                <OrganisationStatusId>1</OrganisationStatusId>
+                <ModifyDate>
+                    <Date>2017-04-22</Date>
+                    <Clock>21:37:33</Clock>
+                </ModifyDate>
+            </Organisation>
+            <Organisation>
+                <OrganisationId>18</OrganisationId>
+                <Name>Vest-Agder</Name>
+                <ShortName>Vest-Agder</ShortName>
+                <MediaName>Vest-Agder</MediaName>
+                <OrganisationTypeId>2</OrganisationTypeId>
+                <CountryId value="578"/>
+                <ModifyDate>
+                    <Date>2011-02-02</Date>
+                    <Clock>10:10:30</Clock>
+                </ModifyDate>
+            </Organisation>
+            <Organisation>
+                <OrganisationId>4</OrganisationId>
+                <Name>Aust-Agder</Name>
+                <ShortName>Aust-Agder</ShortName>
+                <MediaName>Aust-Agder</MediaName>
+                <OrganisationTypeId>2</OrganisationTypeId>
+                <CountryId value="578"/>
+                <OrganisationStatusId>1</OrganisationStatusId>
+                <ModifyDate>
+                    <Date>2017-03-30</Date>
+                    <Clock>22:06:57</Clock>
+                </ModifyDate>
+            </Organisation>
+        </Organiser>
+        <EventRace raceLightCondition="Day" raceDistance="Long">
+            <EventRaceId>9655</EventRaceId>
+            <EventId>9206</EventId>
+            <Name></Name>
+            <RaceDate>
+                <Date>2018-08-25</Date>
+                <Clock>14:00:00</Clock>
+            </RaceDate>
+            <EventCenterPosition x="8.75273" y="58.52805" unit="WGS-84"/>
+        </EventRace>
+        <PunchingUnitType value="Emit"/>
+        <ModifyDate>
+            <Date>2018-08-27</Date>
+            <Clock>23:48:58</Clock>
+        </ModifyDate>
+        <ModifiedBy>
+            <PersonId>4775</PersonId>
+        </ModifiedBy>
+    </Event>
+    <ClassStart numberOfEntries="4">
+        <EventClass lowAge="6" sequence="1" sex="B" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfEntries="4"
+                    timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90000</EventClassId>
+            <Name>N-åpen</Name>
+            <ClassShortName>N-åpen</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>70</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="4" noOfStarts="4">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Damsgaard</Family>
+                    <Given sequence="1">Hannah</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>119</OrganisationId>
+                <Name>Hisøy OK</Name>
+                <ShortName>Hisøy OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>0</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:00:00</Clock>
+                </StartTime>
+                <StartId>1171956</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Damsgaard</Family>
+                    <Given sequence="1">Ingrid</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>119</OrganisationId>
+                <Name>Hisøy OK</Name>
+                <ShortName>Hisøy OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>0</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:00:00</Clock>
+                </StartTime>
+                <StartId>1171957</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Damsgaard</Family>
+                    <Given sequence="1">Julia</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>119</OrganisationId>
+                <Name>Hisøy OK</Name>
+                <ShortName>Hisøy OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>0</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:00:00</Clock>
+                </StartTime>
+                <StartId>1171958</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Ringvoll</Family>
+                    <Given sequence="1">Anne</Given>
+                </PersonName>
+                <PersonId>27834</PersonId>
+                <BirthDate>
+                    <Date>2011-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>134</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:04:00</Clock>
+                </StartTime>
+                <StartId>1171959</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="11" highAge="12" sequence="20" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90002</EventClassId>
+            <Name>D 11-12</Name>
+            <ClassShortName>D 11-12</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>2</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>White</Family>
+                    <Given sequence="1">Selma</Given>
+                </PersonName>
+                <PersonId>15302</PersonId>
+                <BirthDate>
+                    <Date>2007-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>341</OrganisationId>
+                <Name>Søgne og Songdalen OK</Name>
+                <ShortName>Søgne og Songdalen OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>123</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:05:00</Clock>
+                </StartTime>
+                <StartId>1171863</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Ringvoll</Family>
+                    <Given sequence="1">Ingrid</Given>
+                </PersonName>
+                <PersonId>18798</PersonId>
+                <BirthDate>
+                    <Date>2007-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>124</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:07:00</Clock>
+                </StartTime>
+                <StartId>1171864</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="13" highAge="14" sequence="30" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90004</EventClassId>
+            <Name>D 13-14</Name>
+            <ClassShortName>D 13-14</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>3</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Ringvoll</Family>
+                    <Given sequence="1">Amalie</Given>
+                </PersonName>
+                <PersonId>16875</PersonId>
+                <BirthDate>
+                    <Date>2004-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>112</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:38:00</Clock>
+                </StartTime>
+                <StartId>1171866</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>White</Family>
+                    <Given sequence="1">Astrid</Given>
+                </PersonName>
+                <PersonId>9301</PersonId>
+                <BirthDate>
+                    <Date>2004-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>341</OrganisationId>
+                <Name>Søgne og Songdalen OK</Name>
+                <ShortName>Søgne og Songdalen OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>113</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:40:00</Clock>
+                </StartTime>
+                <StartId>1171865</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="5">
+        <EventClass lowAge="15" highAge="16" sequence="60" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="5" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90007</EventClassId>
+            <Name>D 15-16</Name>
+            <ClassShortName>D 15-16</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>6</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="5" noOfStarts="5">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Christiansen</Family>
+                    <Given sequence="1">Julie</Given>
+                </PersonName>
+                <PersonId>17890</PersonId>
+                <BirthDate>
+                    <Date>2002-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>80</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:22:00</Clock>
+                </StartTime>
+                <StartId>1171870</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Mikkelsen</Family>
+                    <Given sequence="1">Lise</Given>
+                </PersonName>
+                <PersonId>8629</PersonId>
+                <BirthDate>
+                    <Date>2003-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>81</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:24:00</Clock>
+                </StartTime>
+                <StartId>1171869</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Nygård</Family>
+                    <Given sequence="1">Kristine</Given>
+                </PersonName>
+                <PersonId>17734</PersonId>
+                <BirthDate>
+                    <Date>2002-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>40</OrganisationId>
+                <Name>Birkenes IL</Name>
+                <ShortName>Birkenes IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>82</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:26:00</Clock>
+                </StartTime>
+                <StartId>1171868</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Mikkelsen</Family>
+                    <Given sequence="1">Ine</Given>
+                </PersonName>
+                <PersonId>8628</PersonId>
+                <BirthDate>
+                    <Date>2003-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>83</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:28:00</Clock>
+                </StartTime>
+                <StartId>1171867</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Myhren</Family>
+                    <Given sequence="1">Tuva Krafft</Given>
+                </PersonName>
+                <PersonId>8005</PersonId>
+                <BirthDate>
+                    <Date>2003-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>119</OrganisationId>
+                <Name>Hisøy OK</Name>
+                <ShortName>Hisøy OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>84</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:30:00</Clock>
+                </StartTime>
+                <StartId>1171871</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="15" sequence="79" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90009</EventClassId>
+            <Name>D 17-B</Name>
+            <ClassShortName>D 17-B</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>62</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="1">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Birkeland</Family>
+                    <Given sequence="1">Lene Næss</Given>
+                </PersonName>
+                <PersonId>11577</PersonId>
+                <BirthDate>
+                    <Date>1966-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>341</OrganisationId>
+                <Name>Søgne og Songdalen OK</Name>
+                <ShortName>Søgne og Songdalen OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>116</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:46:00</Clock>
+                </StartTime>
+                <StartId>1171877</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Ellegaard</Family>
+                    <Given sequence="1">Gro</Given>
+                </PersonName>
+                <PersonId>1773</PersonId>
+                <BirthDate>
+                    <Date>1961-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>366</OrganisationId>
+                <Name>Vang OL</Name>
+                <ShortName>Vang OL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>117</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:48:00</Clock>
+                </StartTime>
+                <StartId>1171876</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="15" sequence="80" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90010</EventClassId>
+            <Name>D 17-C</Name>
+            <ClassShortName>D 17-C</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>8</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="1">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Sletten</Family>
+                    <Given sequence="1">Mariann</Given>
+                </PersonName>
+                <PersonId>28146</PersonId>
+                <BirthDate>
+                    <Date>1972-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>126</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:11:00</Clock>
+                </StartTime>
+                <StartId>1171879</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Runde</Family>
+                    <Given sequence="1">Aileen</Given>
+                </PersonName>
+                <PersonId>9420</PersonId>
+                <BirthDate>
+                    <Date>1966-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="840"/>
+                        <Alpha3 value="USA"/>
+                        <Name languageId="sv">USA</Name>
+                        <Name languageId="en">United States</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>127</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:13:00</Clock>
+                </StartTime>
+                <StartId>1171878</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="4">
+        <EventClass lowAge="15" highAge="20" sequence="105" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="4" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90012</EventClassId>
+            <Name>D 17-20</Name>
+            <ClassShortName>D 17-20</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>68</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="4" noOfStarts="3">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Stødle</Family>
+                    <Given sequence="1">Inga Vestøl</Given>
+                </PersonName>
+                <PersonId>14717</PersonId>
+                <BirthDate>
+                    <Date>2000-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>1006</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:00:00</Clock>
+                </StartTime>
+                <StartId>1171874</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Stødle</Family>
+                    <Given sequence="1">Inga Vestøl</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>41</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:03:00</Clock>
+                </StartTime>
+                <StartId>1171875</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Bøckman</Family>
+                    <Given sequence="1">Christiane Ruud</Given>
+                </PersonName>
+                <PersonId>22743</PersonId>
+                <BirthDate>
+                    <Date>2001-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>43</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:07:00</Clock>
+                </StartTime>
+                <StartId>1171872</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Mestad</Family>
+                    <Given sequence="1">Kristin</Given>
+                </PersonName>
+                <PersonId>7848</PersonId>
+                <BirthDate>
+                    <Date>1999-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>352</OrganisationId>
+                <Name>Torridal IL</Name>
+                <ShortName>Torridal IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>44</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:09:00</Clock>
+                </StartTime>
+                <StartId>1171873</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="3">
+        <EventClass lowAge="15" sequence="120" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="3" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90013</EventClassId>
+            <Name>D 21-</Name>
+            <ClassShortName>D 21-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>12</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="3" noOfStarts="3">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Hauge</Family>
+                    <Given sequence="1">Malin</Given>
+                </PersonName>
+                <PersonId>7765</PersonId>
+                <BirthDate>
+                    <Date>2001-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>119</OrganisationId>
+                <Name>Hisøy OK</Name>
+                <ShortName>Hisøy OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>23</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:23:00</Clock>
+                </StartTime>
+                <StartId>1171880</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Bjørgul</Family>
+                    <Given sequence="1">Ane Sofie Næss</Given>
+                </PersonName>
+                <PersonId>2339</PersonId>
+                <BirthDate>
+                    <Date>1991-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>101</OrganisationId>
+                <Name>Halden SK</Name>
+                <ShortName>Halden SK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>24</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:25:00</Clock>
+                </StartTime>
+                <StartId>1171881</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>White</Family>
+                    <Given sequence="1">Christina</Given>
+                </PersonName>
+                <PersonId>7458</PersonId>
+                <BirthDate>
+                    <Date>1969-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>341</OrganisationId>
+                <Name>Søgne og Songdalen OK</Name>
+                <ShortName>Søgne og Songdalen OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>25</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:27:00</Clock>
+                </StartTime>
+                <StartId>1171882</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="3">
+        <EventClass lowAge="45" sequence="150" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="3" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90015</EventClassId>
+            <Name>D 45-</Name>
+            <ClassShortName>D 45-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>15</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="3" noOfStarts="3">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Hauge</Family>
+                    <Given sequence="1">Marianne</Given>
+                </PersonName>
+                <PersonId>7043</PersonId>
+                <BirthDate>
+                    <Date>1971-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>119</OrganisationId>
+                <Name>Hisøy OK</Name>
+                <ShortName>Hisøy OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>66</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:53:00</Clock>
+                </StartTime>
+                <StartId>1171883</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Nygårdseter</Family>
+                    <Given sequence="1">Emma Smeland</Given>
+                </PersonName>
+                <PersonId>1893</PersonId>
+                <BirthDate>
+                    <Date>1966-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>371</OrganisationId>
+                <Name>Vegårshei IL</Name>
+                <ShortName>Vegårshei IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>67</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:55:00</Clock>
+                </StartTime>
+                <StartId>1171885</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Bråten</Family>
+                    <Given sequence="1">Arnhild U.</Given>
+                </PersonName>
+                <PersonId>1930</PersonId>
+                <BirthDate>
+                    <Date>1968-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>371</OrganisationId>
+                <Name>Vegårshei IL</Name>
+                <ShortName>Vegårshei IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>68</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:57:00</Clock>
+                </StartTime>
+                <StartId>1171884</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="1">
+        <EventClass lowAge="55" sequence="170" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="1" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90016</EventClassId>
+            <Name>D 55-</Name>
+            <ClassShortName>D 55-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>17</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="1" noOfStarts="1">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Hald</Family>
+                    <Given sequence="1">Ragnhild</Given>
+                </PersonName>
+                <PersonId>2408</PersonId>
+                <BirthDate>
+                    <Date>1962-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>92</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:46:00</Clock>
+                </StartTime>
+                <StartId>1171886</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="3">
+        <EventClass lowAge="60" sequence="180" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="3" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90017</EventClassId>
+            <Name>D 60-</Name>
+            <ClassShortName>D 60-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>18</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="3" noOfStarts="3">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Mestad</Family>
+                    <Given sequence="1">Mette</Given>
+                </PersonName>
+                <PersonId>7037</PersonId>
+                <BirthDate>
+                    <Date>1958-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>352</OrganisationId>
+                <Name>Torridal IL</Name>
+                <ShortName>Torridal IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>87</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:36:00</Clock>
+                </StartTime>
+                <StartId>1171887</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Bjorvand</Family>
+                    <Given sequence="1">Siri</Given>
+                </PersonName>
+                <PersonId>7408</PersonId>
+                <BirthDate>
+                    <Date>1958-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>40</OrganisationId>
+                <Name>Birkenes IL</Name>
+                <ShortName>Birkenes IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>88</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:38:00</Clock>
+                </StartTime>
+                <StartId>1171889</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Mestad</Family>
+                    <Given sequence="1">Bente</Given>
+                </PersonName>
+                <PersonId>7849</PersonId>
+                <BirthDate>
+                    <Date>1958-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>352</OrganisationId>
+                <Name>Torridal IL</Name>
+                <ShortName>Torridal IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>89</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:40:00</Clock>
+                </StartTime>
+                <StartId>1171888</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="1">
+        <EventClass lowAge="70" sequence="200" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="1" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90019</EventClassId>
+            <Name>D 70-</Name>
+            <ClassShortName>D 70-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>20</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="1" noOfStarts="1">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Bøbel</Family>
+                    <Given sequence="1">Ingeborg</Given>
+                </PersonName>
+                <PersonId>6502</PersonId>
+                <BirthDate>
+                    <Date>1945-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>148</OrganisationId>
+                <Name>IL Imås</Name>
+                <ShortName>IL Imås</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>120</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:54:00</Clock>
+                </StartTime>
+                <StartId>1171890</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="1">
+        <EventClass lowAge="80" sequence="220" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="1" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>104520</EventClassId>
+            <Name>D 80-</Name>
+            <ClassShortName>D 80-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>22</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="1" noOfStarts="1">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Jørundland</Family>
+                    <Given sequence="1">Gudveig</Given>
+                </PersonName>
+                <PersonId>6307</PersonId>
+                <BirthDate>
+                    <Date>1937-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>257</OrganisationId>
+                <Name>OK Sør</Name>
+                <ShortName>OK Sør</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>99</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:12:00</Clock>
+                </StartTime>
+                <StartId>1171891</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="13" highAge="14" sequence="260" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90024</EventClassId>
+            <Name>H 13-14</Name>
+            <ClassShortName>H 13-14</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>26</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Pytten</Family>
+                    <Given sequence="1">Fredrik</Given>
+                </PersonName>
+                <PersonId>7396</PersonId>
+                <BirthDate>
+                    <Date>2005-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>95</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:04:00</Clock>
+                </StartTime>
+                <StartId>1171893</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Tømt</Family>
+                    <Given sequence="1">Henrik Andreas</Given>
+                </PersonName>
+                <PersonId>17591</PersonId>
+                <BirthDate>
+                    <Date>2004-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>148</OrganisationId>
+                <Name>IL Imås</Name>
+                <ShortName>IL Imås</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>96</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:06:00</Clock>
+                </StartTime>
+                <StartId>1171892</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="13" highAge="16" sequence="270" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90025</EventClassId>
+            <Name>H 13-16C</Name>
+            <ClassShortName>H 13-16C</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>27</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Moheim</Family>
+                    <Given sequence="1">Torgeir Andreas</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>121</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:01:00</Clock>
+                </StartTime>
+                <StartId>1171894</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Sælsbråten</Family>
+                    <Given sequence="1">Elias</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>0</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:45:00</Clock>
+                </StartTime>
+                <StartId>1171895</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="6">
+        <EventClass lowAge="15" highAge="16" sequence="290" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="6" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90027</EventClassId>
+            <Name>H 15-16</Name>
+            <ClassShortName>H 15-16</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>29</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="6" noOfStarts="6">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Beckmann Kristiansen</Family>
+                    <Given sequence="1">Simon</Given>
+                </PersonName>
+                <PersonId>20186</PersonId>
+                <BirthDate>
+                    <Date>2002-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>46</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:13:00</Clock>
+                </StartTime>
+                <StartId>1171898</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Pihl</Family>
+                    <Given sequence="1">Sivert Møklegård</Given>
+                </PersonName>
+                <PersonId>23137</PersonId>
+                <BirthDate>
+                    <Date>2002-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>47</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:15:00</Clock>
+                </StartTime>
+                <StartId>1171899</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Berge</Family>
+                    <Given sequence="1">Erlend Odd</Given>
+                </PersonName>
+                <PersonId>13842</PersonId>
+                <BirthDate>
+                    <Date>2002-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>48</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:17:00</Clock>
+                </StartTime>
+                <StartId>1171901</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Fossum</Family>
+                    <Given sequence="1">Magnus</Given>
+                </PersonName>
+                <PersonId>7892</PersonId>
+                <BirthDate>
+                    <Date>2002-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>49</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:19:00</Clock>
+                </StartTime>
+                <StartId>1171900</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Nomeland</Family>
+                    <Given sequence="1">Trygve Børte</Given>
+                </PersonName>
+                <PersonId>12611</PersonId>
+                <BirthDate>
+                    <Date>2003-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>50</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:21:00</Clock>
+                </StartTime>
+                <StartId>1171897</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Takle</Family>
+                    <Given sequence="1">Brage</Given>
+                </PersonName>
+                <PersonId>13638</PersonId>
+                <BirthDate>
+                    <Date>2003-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>51</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:23:00</Clock>
+                </StartTime>
+                <StartId>1171896</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="15" sequence="301" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90028</EventClassId>
+            <Name>H 17-A kort</Name>
+            <ClassShortName>H 17-AK</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>30</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Myhren</Family>
+                    <Given sequence="1">Einar Krafft</Given>
+                </PersonName>
+                <PersonId>8000</PersonId>
+                <BirthDate>
+                    <Date>1965-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>119</OrganisationId>
+                <Name>Hisøy OK</Name>
+                <ShortName>Hisøy OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>65</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:51:00</Clock>
+                </StartTime>
+                <StartId>1171911</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Sørensen</Family>
+                    <Given sequence="1">Frode</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>64</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:57:00</Clock>
+                </StartTime>
+                <StartId>1171910</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="15" sequence="309" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90029</EventClassId>
+            <Name>H 17-B</Name>
+            <ClassShortName>H 17-B</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>63</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Coward</Family>
+                    <Given sequence="1">Morten</Given>
+                </PersonName>
+                <PersonId>7472</PersonId>
+                <BirthDate>
+                    <Date>1996-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>257</OrganisationId>
+                <Name>OK Sør</Name>
+                <ShortName>OK Sør</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>105</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:24:00</Clock>
+                </StartTime>
+                <StartId>1171912</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Halsall</Family>
+                    <Given sequence="1">Tony</Given>
+                </PersonName>
+                <PersonId>7501</PersonId>
+                <BirthDate>
+                    <Date>1968-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>274</OrganisationId>
+                <Name>Otra IL</Name>
+                <ShortName>Otra IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>106</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:26:00</Clock>
+                </StartTime>
+                <StartId>1171913</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="8">
+        <EventClass lowAge="15" highAge="20" sequence="335" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="8" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90032</EventClassId>
+            <Name>H 17-20</Name>
+            <ClassShortName>H 17-20</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>69</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="8" noOfStarts="8">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Runde</Family>
+                    <Given sequence="1">John Olav</Given>
+                </PersonName>
+                <PersonId>14837</PersonId>
+                <BirthDate>
+                    <Date>1998-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>14</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:05:00</Clock>
+                </StartTime>
+                <StartId>1171908</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Melby</Family>
+                    <Given sequence="1">Njaal Ellegaard</Given>
+                </PersonName>
+                <PersonId>1775</PersonId>
+                <BirthDate>
+                    <Date>2000-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>366</OrganisationId>
+                <Name>Vang OL</Name>
+                <ShortName>Vang OL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>15</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:07:00</Clock>
+                </StartTime>
+                <StartId>1171903</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Pytten</Family>
+                    <Given sequence="1">Kristian</Given>
+                </PersonName>
+                <PersonId>7395</PersonId>
+                <BirthDate>
+                    <Date>2000-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>16</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:09:00</Clock>
+                </StartTime>
+                <StartId>1171905</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Vestøl</Family>
+                    <Given sequence="1">Anders</Given>
+                </PersonName>
+                <PersonId>3319</PersonId>
+                <BirthDate>
+                    <Date>2001-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>371</OrganisationId>
+                <Name>Vegårshei IL</Name>
+                <ShortName>Vegårshei IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>17</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:11:00</Clock>
+                </StartTime>
+                <StartId>1171906</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Aurebekk</Family>
+                    <Given sequence="1">Marius</Given>
+                </PersonName>
+                <PersonId>19534</PersonId>
+                <BirthDate>
+                    <Date>2000-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>18</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:13:00</Clock>
+                </StartTime>
+                <StartId>1171902</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Runde</Family>
+                    <Given sequence="1">David</Given>
+                </PersonName>
+                <PersonId>7426</PersonId>
+                <BirthDate>
+                    <Date>2001-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>19</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:15:00</Clock>
+                </StartTime>
+                <StartId>1171904</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Lynnebakken</Family>
+                    <Given sequence="1">Vetle Elias</Given>
+                </PersonName>
+                <PersonId>7447</PersonId>
+                <BirthDate>
+                    <Date>1998-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>20</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:17:00</Clock>
+                </StartTime>
+                <StartId>1171909</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Ekeland</Family>
+                    <Given sequence="1">Einar</Given>
+                </PersonName>
+                <PersonId>7463</PersonId>
+                <BirthDate>
+                    <Date>1999-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>248</OrganisationId>
+                <Name>Oddersjaa SSK</Name>
+                <ShortName>Oddersjaa SSK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>21</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:19:00</Clock>
+                </StartTime>
+                <StartId>1171907</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="8">
+        <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="8" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90033</EventClassId>
+            <Name>H 21-</Name>
+            <ClassShortName>H 21-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>35</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="8" noOfStarts="8">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Wedege</Family>
+                    <Given sequence="1">Håvard</Given>
+                </PersonName>
+                <PersonId>3139</PersonId>
+                <BirthDate>
+                    <Date>1996-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>4</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:06:00</Clock>
+                </StartTime>
+                <StartId>1171915</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Erichsen</Family>
+                    <Given sequence="1">Petter Marki</Given>
+                </PersonName>
+                <PersonId>1880</PersonId>
+                <BirthDate>
+                    <Date>1991-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>5</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:08:00</Clock>
+                </StartTime>
+                <StartId>1171917</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Moe</Family>
+                    <Given sequence="1">Jostein</Given>
+                </PersonName>
+                <PersonId>5575</PersonId>
+                <BirthDate>
+                    <Date>1978-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>352</OrganisationId>
+                <Name>Torridal IL</Name>
+                <ShortName>Torridal IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>6</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:10:00</Clock>
+                </StartTime>
+                <StartId>1171918</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Stormoen</Family>
+                    <Given sequence="1">Håvar Birkeland</Given>
+                </PersonName>
+                <PersonId>820</PersonId>
+                <BirthDate>
+                    <Date>1989-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>7</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:12:00</Clock>
+                </StartTime>
+                <StartId>1171919</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Danielsen</Family>
+                    <Given sequence="1">Vegard</Given>
+                </PersonName>
+                <PersonId>3104</PersonId>
+                <BirthDate>
+                    <Date>1990-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>8</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:14:00</Clock>
+                </StartTime>
+                <StartId>1171916</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Årstad</Family>
+                    <Given sequence="1">Thomas Natvig</Given>
+                </PersonName>
+                <PersonId>1100</PersonId>
+                <BirthDate>
+                    <Date>1989-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>101</OrganisationId>
+                <Name>Halden SK</Name>
+                <ShortName>Halden SK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>9</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:16:00</Clock>
+                </StartTime>
+                <StartId>1171914</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Åmdal</Family>
+                    <Given sequence="1">Tor</Given>
+                </PersonName>
+                <PersonId>7400</PersonId>
+                <BirthDate>
+                    <Date>1967-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>10</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:18:00</Clock>
+                </StartTime>
+                <StartId>1171920</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Scheie</Family>
+                    <Given sequence="1">Stein-Erik</Given>
+                </PersonName>
+                <PersonId>231</PersonId>
+                <BirthDate>
+                    <Date>1963-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>257</OrganisationId>
+                <Name>OK Sør</Name>
+                <ShortName>OK Sør</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>11</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:20:00</Clock>
+                </StartTime>
+                <StartId>1171921</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="35" sequence="360" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90034</EventClassId>
+            <Name>H 35-</Name>
+            <ClassShortName>H 35-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>36</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Terkelsen</Family>
+                    <Given sequence="1">Øyvind</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>124</OrganisationId>
+                <Name>Hope IL</Name>
+                <ShortName>Hope IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>0</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>13:58:00</Clock>
+                </StartTime>
+                <StartId>1171923</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Håland</Family>
+                    <Given sequence="1">Kjell Arne</Given>
+                </PersonName>
+                <PersonId>14996</PersonId>
+                <BirthDate>
+                    <Date>1976-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>257</OrganisationId>
+                <Name>OK Sør</Name>
+                <ShortName>OK Sør</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>27</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:31:00</Clock>
+                </StartTime>
+                <StartId>1171922</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="14">
+        <EventClass lowAge="45" sequence="380" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="14" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90035</EventClassId>
+            <Name>H 45-</Name>
+            <ClassShortName>H 45-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>38</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="14" noOfStarts="14">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Pytten</Family>
+                    <Given sequence="1">Ernst</Given>
+                </PersonName>
+                <PersonId>7393</PersonId>
+                <BirthDate>
+                    <Date>1972-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>22</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:21:00</Clock>
+                </StartTime>
+                <StartId>1171936</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Fredriksen</Family>
+                    <Given sequence="1">Erling</Given>
+                </PersonName>
+                <PersonId>1900</PersonId>
+                <BirthDate>
+                    <Date>1964-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>134</OrganisationId>
+                <Name>IF Trauma</Name>
+                <ShortName>IF Trauma</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>28</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:33:00</Clock>
+                </StartTime>
+                <StartId>1171927</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Nygårdseter</Family>
+                    <Given sequence="1">Sten Åge</Given>
+                </PersonName>
+                <PersonId>5451</PersonId>
+                <BirthDate>
+                    <Date>1967-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>371</OrganisationId>
+                <Name>Vegårshei IL</Name>
+                <ShortName>Vegårshei IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>29</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:35:00</Clock>
+                </StartTime>
+                <StartId>1171929</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Ringvoll</Family>
+                    <Given sequence="1">Geir Jonny</Given>
+                </PersonName>
+                <PersonId>16876</PersonId>
+                <BirthDate>
+                    <Date>1972-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>30</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:37:00</Clock>
+                </StartTime>
+                <StartId>1171933</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Tømt</Family>
+                    <Given sequence="1">Per Kristian</Given>
+                </PersonName>
+                <PersonId>6523</PersonId>
+                <BirthDate>
+                    <Date>1970-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>148</OrganisationId>
+                <Name>IL Imås</Name>
+                <ShortName>IL Imås</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>31</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:39:00</Clock>
+                </StartTime>
+                <StartId>1171932</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Bråten</Family>
+                    <Given sequence="1">Geir</Given>
+                </PersonName>
+                <PersonId>156</PersonId>
+                <BirthDate>
+                    <Date>1965-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>371</OrganisationId>
+                <Name>Vegårshei IL</Name>
+                <ShortName>Vegårshei IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>32</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:41:00</Clock>
+                </StartTime>
+                <StartId>1171935</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Sandnes</Family>
+                    <Given sequence="1">Mads Henrik</Given>
+                </PersonName>
+                <PersonId>1027</PersonId>
+                <BirthDate>
+                    <Date>1964-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>124</OrganisationId>
+                <Name>Hope IL</Name>
+                <ShortName>Hope IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>33</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:43:00</Clock>
+                </StartTime>
+                <StartId>1171925</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Eik</Family>
+                    <Given sequence="1">Harald</Given>
+                </PersonName>
+                <PersonId>6908</PersonId>
+                <BirthDate>
+                    <Date>1970-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>34</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:45:00</Clock>
+                </StartTime>
+                <StartId>1171934</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Ekeland</Family>
+                    <Given sequence="1">Jon Terje</Given>
+                </PersonName>
+                <PersonId>7461</PersonId>
+                <BirthDate>
+                    <Date>1966-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>248</OrganisationId>
+                <Name>Oddersjaa SSK</Name>
+                <ShortName>Oddersjaa SSK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>35</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:47:00</Clock>
+                </StartTime>
+                <StartId>1171928</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Nærestad</Family>
+                    <Given sequence="1">Per Olav</Given>
+                </PersonName>
+                <PersonId>1898</PersonId>
+                <BirthDate>
+                    <Date>1965-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>134</OrganisationId>
+                <Name>IF Trauma</Name>
+                <ShortName>IF Trauma</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>36</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:49:00</Clock>
+                </StartTime>
+                <StartId>1171924</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Fossøy</Family>
+                    <Given sequence="1">Helge</Given>
+                </PersonName>
+                <PersonId>24319</PersonId>
+                <BirthDate>
+                    <Date>1964-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>393</OrganisationId>
+                <Name>Øyestad IF allianse</Name>
+                <ShortName>Øyestad IF allianse</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>37</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:51:00</Clock>
+                </StartTime>
+                <StartId>1171926</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Birkeland</Family>
+                    <Given sequence="1">Roy</Given>
+                </PersonName>
+                <PersonId>8461</PersonId>
+                <BirthDate>
+                    <Date>1963-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>341</OrganisationId>
+                <Name>Søgne og Songdalen OK</Name>
+                <ShortName>Søgne og Songdalen OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>38</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:53:00</Clock>
+                </StartTime>
+                <StartId>1171937</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Vestøl</Family>
+                    <Given sequence="1">Ole Petter</Given>
+                </PersonName>
+                <PersonId>3321</PersonId>
+                <BirthDate>
+                    <Date>1965-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>371</OrganisationId>
+                <Name>Vegårshei IL</Name>
+                <ShortName>Vegårshei IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>39</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:55:00</Clock>
+                </StartTime>
+                <StartId>1171931</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Sløgedal</Family>
+                    <Given sequence="1">Ola</Given>
+                </PersonName>
+                <PersonId>415</PersonId>
+                <BirthDate>
+                    <Date>1970-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>216</OrganisationId>
+                <Name>Marnardal IL</Name>
+                <ShortName>Marnardal IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>40</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:57:00</Clock>
+                </StartTime>
+                <StartId>1171930</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="5">
+        <EventClass lowAge="55" sequence="400" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="5" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90036</EventClassId>
+            <Name>H 55-</Name>
+            <ClassShortName>H 55-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>40</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="5" noOfStarts="5">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Bjørgum</Family>
+                    <Given sequence="1">Jon</Given>
+                </PersonName>
+                <PersonId>2573</PersonId>
+                <BirthDate>
+                    <Date>1959-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>54</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:29:00</Clock>
+                </StartTime>
+                <StartId>1171938</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Vaaje</Family>
+                    <Given sequence="1">Torbjørn</Given>
+                </PersonName>
+                <PersonId>7917</PersonId>
+                <BirthDate>
+                    <Date>1963-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>31</OrganisationId>
+                <Name>Austre Moland IL</Name>
+                <ShortName>Austre Moland IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>55</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:31:00</Clock>
+                </StartTime>
+                <StartId>1171940</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Vaaje</Family>
+                    <Given sequence="1">Lars Peder</Given>
+                </PersonName>
+                <PersonId>11494</PersonId>
+                <BirthDate>
+                    <Date>1960-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>216</OrganisationId>
+                <Name>Marnardal IL</Name>
+                <ShortName>Marnardal IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>56</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:33:00</Clock>
+                </StartTime>
+                <StartId>1171941</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Lønningen</Family>
+                    <Given sequence="1">Eiliv Bjarne</Given>
+                </PersonName>
+                <PersonId>18094</PersonId>
+                <BirthDate>
+                    <Date>1960-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>274</OrganisationId>
+                <Name>Otra IL</Name>
+                <ShortName>Otra IL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>57</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:35:00</Clock>
+                </StartTime>
+                <StartId>1171942</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Sæbø</Family>
+                    <Given sequence="1">Øivind</Given>
+                </PersonName>
+                <PersonId>9374</PersonId>
+                <BirthDate>
+                    <Date>1959-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>58</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:37:00</Clock>
+                </StartTime>
+                <StartId>1171939</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="5">
+        <EventClass lowAge="60" sequence="410" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="5" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90037</EventClassId>
+            <Name>H 60-</Name>
+            <ClassShortName>H 60-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>41</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="5" noOfStarts="5">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Hansen</Family>
+                    <Given sequence="1">John</Given>
+                </PersonName>
+                <PersonId>8437</PersonId>
+                <BirthDate>
+                    <Date>1957-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>59</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:39:00</Clock>
+                </StartTime>
+                <StartId>1171946</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Heivoll</Family>
+                    <Given sequence="1">Reidar</Given>
+                </PersonName>
+                <PersonId>6762</PersonId>
+                <BirthDate>
+                    <Date>1955-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>341</OrganisationId>
+                <Name>Søgne og Songdalen OK</Name>
+                <ShortName>Søgne og Songdalen OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>60</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:41:00</Clock>
+                </StartTime>
+                <StartId>1171944</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Moe</Family>
+                    <Given sequence="1">Dag</Given>
+                </PersonName>
+                <PersonId>6333</PersonId>
+                <BirthDate>
+                    <Date>1953-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>61</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:43:00</Clock>
+                </StartTime>
+                <StartId>1171943</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Ager-Wick</Family>
+                    <Given sequence="1">Glenn</Given>
+                </PersonName>
+                <PersonId>6534</PersonId>
+                <BirthDate>
+                    <Date>1958-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>62</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:45:00</Clock>
+                </StartTime>
+                <StartId>1171947</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Bjørnsen</Family>
+                    <Given sequence="1">Jack</Given>
+                </PersonName>
+                <PersonId>190</PersonId>
+                <BirthDate>
+                    <Date>1958-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>189</OrganisationId>
+                <Name>Kristiansand OK</Name>
+                <ShortName>Kristiansand OK</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>63</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:47:00</Clock>
+                </StartTime>
+                <StartId>1171945</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="65" sequence="420" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90038</EventClassId>
+            <Name>H 65-</Name>
+            <ClassShortName>H 65-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>42</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Sørensen</Family>
+                    <Given sequence="1">Kjell Walter</Given>
+                </PersonName>
+                <PersonId>6920</PersonId>
+                <BirthDate>
+                    <Date>1951-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>71</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:04:00</Clock>
+                </StartTime>
+                <StartId>1171949</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Coward</Family>
+                    <Given sequence="1">Stein</Given>
+                </PersonName>
+                <PersonId>7468</PersonId>
+                <BirthDate>
+                    <Date>1952-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>257</OrganisationId>
+                <Name>OK Sør</Name>
+                <ShortName>OK Sør</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>72</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:06:00</Clock>
+                </StartTime>
+                <StartId>1171948</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="3">
+        <EventClass lowAge="70" sequence="430" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="3" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90039</EventClassId>
+            <Name>H 70-</Name>
+            <ClassShortName>H 70-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>43</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="3" noOfStarts="3">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Skiftenes</Family>
+                    <Given sequence="1">Arne Kristian</Given>
+                </PersonName>
+                <PersonId>7975</PersonId>
+                <BirthDate>
+                    <Date>1945-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>148</OrganisationId>
+                <Name>IL Imås</Name>
+                <ShortName>IL Imås</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>73</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:08:00</Clock>
+                </StartTime>
+                <StartId>1171951</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Tørå</Family>
+                    <Given sequence="1">Gunnar Dag</Given>
+                </PersonName>
+                <PersonId>4996</PersonId>
+                <BirthDate>
+                    <Date>1948-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>75</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:12:00</Clock>
+                </StartTime>
+                <StartId>1171950</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Torbjørnsen</Family>
+                    <Given sequence="1">Tore Bjørn</Given>
+                </PersonName>
+                <PersonId>7898</PersonId>
+                <BirthDate>
+                    <Date>1945-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>77</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:16:00</Clock>
+                </StartTime>
+                <StartId>1171952</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="2">
+        <EventClass lowAge="75" sequence="440" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="2" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>90040</EventClassId>
+            <Name>H 75-</Name>
+            <ClassShortName>H 75-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>44</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="2" noOfStarts="2">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person>
+                <PersonName>
+                    <Family>Spieler</Family>
+                    <Given sequence="1">Per Reidar</Given>
+                </PersonName>
+                <PersonId></PersonId>
+            </Person>
+            <Organisation>
+                <OrganisationId>135</OrganisationId>
+                <Name>IK Grane Arendal Orientering</Name>
+                <ShortName>IK Grane Arendal Orientering</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>107</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:28:00</Clock>
+                </StartTime>
+                <StartId>1171953</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Bjerva</Family>
+                    <Given sequence="1">Ronald</Given>
+                </PersonName>
+                <PersonId>13215</PersonId>
+                <BirthDate>
+                    <Date>1943-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>56</OrganisationId>
+                <Name>Drangedal OL</Name>
+                <ShortName>Drangedal OL</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>109</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:32:00</Clock>
+                </StartTime>
+                <StartId>1171954</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+    <ClassStart numberOfEntries="1">
+        <EventClass lowAge="80" sequence="450" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1"
+                    numberOfEntries="1" timePresentation="Y" allowEntryInAdvance="Y">
+            <EventClassId>104521</EventClassId>
+            <Name>H 80-</Name>
+            <ClassShortName>H 80-</ClassShortName>
+            <EventClassStatus value="normal"/>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>45</BaseClassId>
+            <ExternalId>0</ExternalId>
+            <PunchingUnitType value="Emit"/>
+            <ClassRaceInfo noOfEntries="1" noOfStarts="1">
+                <EventRaceId>9655</EventRaceId>
+                <Name></Name>
+            </ClassRaceInfo>
+        </EventClass>
+        <PersonStart>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Jørundland</Family>
+                    <Given sequence="1">Einar</Given>
+                </PersonName>
+                <PersonId>6306</PersonId>
+                <BirthDate>
+                    <Date>1934-01-01</Date>
+                </BirthDate>
+                <Nationality>
+                    <Country>
+                        <CountryId value="578"/>
+                        <Alpha3 value="NOR"/>
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                    </Country>
+                </Nationality>
+            </Person>
+            <Organisation>
+                <OrganisationId>257</OrganisationId>
+                <Name>OK Sør</Name>
+                <ShortName>OK Sør</ShortName>
+                <OrganisationTypeId>5</OrganisationTypeId>
+                <Country>
+                    <CountryId value="578"/>
+                    <Alpha3 value="NOR"/>
+                    <Name languageId="sv">Norge</Name>
+                    <Name languageId="en">Norway</Name>
+                </Country>
+            </Organisation>
+            <Start>
+                <BibNumber>102</BibNumber>
+                <StartTime>
+                    <Date>2018-08-25</Date>
+                    <Clock>14:18:00</Clock>
+                </StartTime>
+                <StartId>1171955</StartId>
+                <ModifyDate>
+                    <Date>2018-08-25</Date>
+                    <Clock>16:47:37</Clock>
+                </ModifyDate>
+            </Start>
+        </PersonStart>
+    </ClassStart>
+</StartList>
